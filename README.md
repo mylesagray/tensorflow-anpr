@@ -2,6 +2,8 @@
 
 Based heavily on <https://github.com/stevefielding/tensorflow-anpr>.
 
+Consumed by <https://github.com/mylesagray/docker-tensorflow-s3>.
+
 ![video detection](https://github.com/stevefielding/tensorflow-anpr/raw/master/uploads/parkingLotShortClip.gif)  
 Detect vehicle license plates in videos and images using the tensorflow/object_detection API.  
 Train object detection models for license plate detection using TFOD API, with either a single detection stage
