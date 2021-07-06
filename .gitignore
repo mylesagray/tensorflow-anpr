@@ -1,6 +1,10 @@
 .vscode/
 .DS_Store
 
+#Ignore SUN dataset and extracted bg images
+dataset_prep/artificial/bgs
+dataset_prep/artificial/SUN397.tar.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
