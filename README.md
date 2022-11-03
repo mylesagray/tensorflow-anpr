@@ -343,3 +343,4 @@ chars_recall - Characters detected in the correct place with the correct content
 chars_precision - Chars detected outside of the correct location, or the location is correct,
                   but the contents are wrong. Divided by the total number of plates predicted (ie true pos plus false pos)
  ````
+
